@@ -1,1 +1,1 @@
-dsadf
+*Programa en C en donde se piden datos de una venta, cantidad de unidades vendidas de algún producto y el año. Dichas ventas son guardadas en un txt, también se levantan las mismas desde el txt para mostrarlas y se implementa un CRUD para las mismas. Se hace uso de TDA, archivos, struct, punteros, memoria dinámica.*
