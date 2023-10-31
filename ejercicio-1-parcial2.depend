@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1694456873 source:c:\users\usuario\desktop\c\ejercicios\cuatrimestre-2\ejercicio-1-parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694456516 c:\users\usuario\desktop\c\ejercicios\cuatrimestre-2\ejercicio-1-parcial2\ventas.h
+
+1694457186 source:c:\users\usuario\desktop\c\ejercicios\cuatrimestre-2\ejercicio-1-parcial2\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694459367 source:c:\users\usuario\desktop\c\ejercicios\practica-parcial2\ejercicio-1-parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694459367 c:\users\usuario\desktop\c\ejercicios\practica-parcial2\ejercicio-1-parcial2\ventas.h
+
+1694460075 source:c:\users\usuario\desktop\c\ejercicios\practica-parcial2\ejercicio-1-parcial2\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694796010 source:c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694795968 c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2\ventas.h
+
+1694796176 source:c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694807059 source:c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1694806983 c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\ventas.h
+
+1694807085 source:c:\users\usuario\desktop\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1698715262 source:c:\users\usuario\desktop\angel\c\ejercicios\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
+1698714950 c:\users\usuario\desktop\angel\c\ejercicios\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\ventas.h
+
+1698715525 source:c:\users\usuario\desktop\angel\c\ejercicios\practica-parcial2\ejercicio-1-parcial2 (crud ventas)\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"ventas.h"
+
